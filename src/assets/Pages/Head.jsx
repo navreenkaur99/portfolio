@@ -4,7 +4,11 @@ import style from './Css/Head.module.css'
 
 export default function Head() {
   return (
+
         <div class="px-5 mb-4 rounded-3 ">
+          <div>
+             <h3 className='bold'>EDUCATIONAL HISTORY</h3>
+          </div>
           <div class="container-fluid py-5">
             <div class="row">
               <div class="feature col card mx-2 py-3">
