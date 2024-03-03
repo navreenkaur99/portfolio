@@ -9,7 +9,7 @@ export default function Dashboard() {
             
          <div className="col-8">
           <h1>ABOUT MYSELF</h1>
-          <p>am a person who is positive about every aspect of life. There are many things I like to do, to see, and to experience. I like to read, I like to write; I like to think, I like to dream; I like to talk, I like to listen. </p>
+          <p>I am a person who is positive about every aspect of life. There are many things I like to do, to see, and to experience. I like to read, I like to write; I like to think, I like to dream; I like to talk, I like to listen. </p>
           <button class="btn btn-primary" type="submit">linkin</button>
 
         </div>
