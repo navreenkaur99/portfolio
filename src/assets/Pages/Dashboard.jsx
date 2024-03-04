@@ -1,5 +1,6 @@
  import React from 'react'
  import Head from './Head'
+import Projects from './Projects';
 
 
 export default function Dashboard() {
@@ -35,10 +36,12 @@ export default function Dashboard() {
       </div>
     <div class="container py-4">
       <Head />
-    
+      <Projects />
+     
 
 
     </div>
+    
     </div>
   );
 }
